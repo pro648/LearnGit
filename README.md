@@ -4,3 +4,5 @@ Creating a new branch is quick.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git is primarily used for source code management in software development.
+
+As a distributed revision control system it is aimed at speed, data integrity, and support for distributed,non-linear workflows.
